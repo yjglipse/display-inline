@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    border: 2px solid #f00;
+    text-align: center;
+}
+
+div{
+    border: 2px solid blue;
+    display: inline;
+    margin-right: 20px;
+    padding-inline: 10px;
+}
